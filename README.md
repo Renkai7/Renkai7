@@ -12,10 +12,11 @@ Hello
 Renkai7/Renkai7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<div align="center">
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renkai7&show_icons=true&theme=tokyonight)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Renkai7&theme=juicyfresh)
 <br>
+</div>
 
 
 
