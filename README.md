@@ -14,11 +14,11 @@ You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Renkai7&show_icons=true&theme=tokyonight"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Renkai7&theme=juicyfresh"/>
 <br>
 </div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Renkai7&theme=juicyfresh)
+
 
 
 
