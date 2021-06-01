@@ -1,9 +1,7 @@
-<h1>Hello
-![](https://komarev.com/ghpvc/?username=your-github-Renkai7&color=green)
-<img src="https://komarev.com/ghpvc/?username=your-github-Renkai7&color=green" /></h1>
+<h1>👋Hello, I’m @Renkai7</h1>
+<img src="https://komarev.com/ghpvc/?username=your-github-Renkai7&color=green" />
 <hr>
 
-- 👋 Hi, I’m @Renkai7
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... HTML/CSS/JavaScript
 - 💞️ I’m looking to collaborate on ...
@@ -19,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 </div>
 
-<img src="https://profile-counter.glitch.me/{Renkai7}/count.svg"/>
+
 
 
 
