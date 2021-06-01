@@ -1,4 +1,4 @@
-Hello
+<img src="Hello
 ![](https://komarev.com/ghpvc/?username=your-github-Renkai7&color=green)
 <hr>
 
@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 </div>
 
-https://profile-counter.glitch.me/{Ayushparikh-code}/count.svg
+<img src="https://profile-counter.glitch.me/{Renkai7}/count.svg"/>
 
 
 
