@@ -18,6 +18,8 @@ You can click the Preview link to take a look at your changes.
 <br>
 </div>
 
+https://profile-counter.glitch.me/{Ayushparikh-code}/count.svg
+
 
 
 
