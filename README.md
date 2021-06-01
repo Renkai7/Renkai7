@@ -1,5 +1,5 @@
 <h1>👋Hello, I’m @Renkai7</h1>
-<img src="https://komarev.com/ghpvc/?username=your-github-Renkai7&color=green" />
+<img style="width: 50px" src="https://komarev.com/ghpvc/?username=your-github-Renkai7&color=green" />
 <hr>
 
 - 👀 I’m interested in ...
