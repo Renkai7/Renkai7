@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in ... Creating a chatbot for websites
 - 🌱 I’m currently learning ... Python/JavaScript/NodeJS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Connect with me on [LinkedIn] (https://www.linkedin.com/feed/?trk=nav_back_to_linkedin)
 - 📫 How to reach me ...
 
 <!---
