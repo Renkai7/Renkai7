@@ -14,7 +14,11 @@ You can click the Preview link to take a look at your changes.
 --->
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Renkai7&show_icons=true&custom_title=Michael's Github Stats&bg_color=10,3a1c71,d76d77,ffaf7b&title_color=f7fafa&text_color=f7fafa"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renkai7&bg_color=50,3a1c71,d76d77,ffaf7b&title_color=f7fafa">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renkai7&bg_color=50,3a1c71,d76d77,ffaf7b&title_color=f7fafa"> -->
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renkai7&layout=compact&langs_count=8&hide_border=true&title_color=f7fafa&icon_color=000000&text_color=f7fafa&bg_color=50,3a1c71,d76d77,ffaf7b"
+  
+
 </div>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Renkai7&theme=juicyfresh"/>
