@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mike!
+# 👋 Hello!
 <img style="width: 120px" src="https://komarev.com/ghpvc/?username=your-github-Renkai7&color=brightgreen" />
 
 <hr>
