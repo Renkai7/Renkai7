@@ -5,6 +5,8 @@
 
 - 👀 I’m interested in ... Creating a chatbot for websites
 - 💞️ Connect with me on [LinkedIn](https://www.linkedin.com/feed/?trk=nav_back_to_linkedin)
+- 🚀 Projects
+- 
 
 <!---
 Renkai7/Renkai7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
