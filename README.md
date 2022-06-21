@@ -5,6 +5,7 @@
 
 - 👀 I’m interested in ... Creating a chatbot for websites
 - 💞️ Connect with me on [LinkedIn](https://www.linkedin.com/feed/?trk=nav_back_to_linkedin)
+- Blog [Meikono](https://meikono.com/)
 - 🚀 Projects
 - 
 
