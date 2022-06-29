@@ -1,6 +1,6 @@
 # 👋 Hello!
+<img src="aang-sokka-bow.gif"/>
 <img style="width: 120px" src="https://komarev.com/ghpvc/?username=your-github-Renkai7&color=brightgreen" />
-![aang-sokka-bow](aang-sokka-bow.gif)
 
 <hr>
 
