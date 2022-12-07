@@ -12,8 +12,7 @@ Renkai7/Renkai7 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renkai7&layout=compact&langs_count=8&hide_border=true&title_color=f7fafa&icon_color=000000&text_color=f7fafa&bg_color=50,3a1c71,d76d77,ffaf7b" width="400"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renkai7&layout=compact&theme=tokyonight)](https://github.com/renkai7/github-readme-stats)
  
  ## :gem: Github Profile Trophy
  
