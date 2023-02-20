@@ -1,5 +1,5 @@
 <div>
-  <img src="Copy of Blue and White Architect LinkedIn Banner" />
+  <img src="Copy of Blue and White Architect LinkedIn Banner.gif" />
 </div>
 
 ## Connect with me
