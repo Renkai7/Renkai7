@@ -1,4 +1,6 @@
-
+<div>
+  <img src="Copy of Blue and White Architect LinkedIn Banner" />
+</div>
 
 ## Connect with me
 <div id="header" align="center">
