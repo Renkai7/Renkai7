@@ -1,6 +1,6 @@
-<div>
+<!-- <div>
   <img src="Copy of Blue and White Architect LinkedIn Banner.gif" />
-</div>
+</div> -->
 
 ## Connect with me
 <div id="header" align="center">
